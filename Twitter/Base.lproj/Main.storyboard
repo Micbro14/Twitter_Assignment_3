@@ -24,7 +24,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="gray" title="Button"/>
                                 <connections>
-                                    <action selector="onLoginButton:" destination="WWi-ZE-YZf" eventType="touchUpInside" id="WEc-mz-Cc6"/>
+                                    <action selector="onLoginButton:" destination="WWi-ZE-YZf" eventType="touchUpInside" id="QOv-4K-HA4"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -91,9 +91,9 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <outlet property="profileImageView" destination="6Lc-20-CQl" id="u7o-cW-tva"/>
-                                    <outlet property="tweetContent" destination="UYA-BU-65L" id="rpr-rw-nqa"/>
-                                    <outlet property="userNameLabel" destination="YgL-Hb-ttV" id="96v-rd-C8c"/>
+                                    <outlet property="profileImageView" destination="6Lc-20-CQl" id="hyN-yq-D2w"/>
+                                    <outlet property="tweetContent" destination="UYA-BU-65L" id="3f9-QO-wrZ"/>
+                                    <outlet property="userNameLabel" destination="YgL-Hb-ttV" id="eJa-Kf-B5l"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
